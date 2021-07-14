@@ -1,0 +1,166 @@
+body{
+    font-weight: bold;
+}
+.header-text{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+#navbarNav{
+    margin-left: 100px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.header-article{
+    margin-top: 120px;
+}
+.container-fluid{
+    background-color:#F0FFF0 ;
+}
+.one{
+    margin-top: 50px;
+}
+.logo{
+    margin-left: 3%;
+}
+.main-button{
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    cursor: pointer;
+    border: none;
+    padding: 0px 34px ;
+    width: 153px;
+    height: 43px;
+}
+span{
+    color:#21B573;
+}
+.header-slider{
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+.two{
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.icon-article{
+    text-align: center;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+    margin: 80px 80px 15px;
+}
+.icard{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    border: none;
+    height: 310px;
+    width: 270px;
+  
+}
+.ucard{
+    background-color: white;
+    box-shadow: 0px 20px 40px #0000001a;
+}
+.admit{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.oc{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-size: 50px;
+    font-weight: 8px;
+}
+
+.enroll-button{
+   
+   margin-left: 30%;
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    cursor: pointer;
+    border: none;
+    padding: 0px 34px ;
+    width: 153px;
+    height: 43px;
+}
+.course-footer{
+    display: flex;
+   margin: 15px;
+}
+.end{
+    margin-left: 20%;
+}
+.course{
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px #0000001a;
+    width: 350px;
+}
+.third{
+    margin-bottom: 100px;
+}
+
+.testimonial{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.footer{
+    color: white;
+    background-color: #282531;
+    height: 370px;
+}
+.footer-text{
+    padding: 20px;
+    margin-top: 50px;
+}
+.last-footer{
+    text-align: center;
+    margin-top: 25px;
+}
+.fot-col{
+    color:#21B573;
+    margin-bottom: 20px;
+}
+.man{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.ft{
+    text-align: center;
+    margin-top: 10px;
+}
+.testimonial{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.suc{
+    
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 38px;
+    margin-top: 10px;
+}
+.test{
+    border: none;
+    box-shadow: 0px 10px 40px #0000001a;
+    border-radius: 15px;
+}
